@@ -1,0 +1,4 @@
+{:deps
+ {scicloj/tablecloth {:mvn/version "6.094.1"}
+ generateme/fastmath {:mvn/version "2.1.8"
+                       :exclusions [com.github.haifengl/smile-mkl]}}}
